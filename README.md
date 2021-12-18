@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @javonm8260
 - 👀 I’m interested in hunting, fast cars, coding
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning java and c++
 - 💞️ I’m looking to collaborate on java or python projects
 - 📫 How to reach me javonm8260@gmail.com or 252-292-7158 (texts)
 
